@@ -1,5 +1,5 @@
-# Especialidade: corta-mato
-e provas de piso similar.
+# Especialidade: corta-mato e provas contra-relógio de subir escadas
+ou provas o mais similar com estas a nível de piso (terra batida ou relva) e ou curtas de alta intensidade.
 
 # Recordes Pessoais
 
