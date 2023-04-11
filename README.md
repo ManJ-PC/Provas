@@ -12,6 +12,6 @@ Recordes Pessoais
 
 3000obs: 11'18''01''' Braga Julho 2022: Campeonato Absoluto do Norte 
 
-5000m: 	17:47.57 Maia, Campeonato Regional do Porto
+5000m: 	17:47.57 Maia: Campeonato Regional do Porto
 
 10k estrada: 35:57 Porto, Dezembro 2019: Volta a Paranhos
