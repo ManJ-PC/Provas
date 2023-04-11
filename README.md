@@ -1,11 +1,9 @@
-# Provas
-
-#Especialidade: corta-mato
+# Especialidade: corta-mato
 e provas de piso similar.
 
-#Recordes Pessoais
+# Recordes Pessoais
 
-##pista
+## pista
 400m: 1'00''40''' Maia 2022: 2ªNoite Quente
 
 800m: 2'16''93''' Maia 2022: 1ª Noite Quente
@@ -18,5 +16,5 @@ e provas de piso similar.
 
 5000m: 	17:47.57 Maia: Campeonato Regional do Porto
 
-##estrada
+## estrada
 10k estrada: 35:57 Porto, Dezembro 2019: Volta a Paranhos
