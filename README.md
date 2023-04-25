@@ -18,3 +18,13 @@ ou provas o mais similar com estas a nível de piso (terra batida ou relva) e ou
 
 ## estrada
 10k estrada: 35:57 Porto, Dezembro 2019: Volta a Paranhos
+
+
+Ponto de Checkup (25 de Abril, estrada 10km)
+
+2018: 37'53"
+2019: 36'44"
+2020: Pandemia
+2021: 39'
+2022: 38'29"
+2023: 37'25"
