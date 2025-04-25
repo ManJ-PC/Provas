@@ -34,3 +34,5 @@ ou provas o mais similar com estas a nível de piso (terra batida ou relva) e ou
 2022: 38'29"
 
 2023: 37'25"
+
+2025: 37'12"
