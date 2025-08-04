@@ -12,7 +12,8 @@ ou provas o mais similar com estas a nível de piso (terra batida ou relva) e ou
 
 3000m: 10'04''18''' Lodz, Poland Maio 2019: Akademickie Mistrzostwa Polski
 
-3000obs:11'07''59''' Maia Julho 2023: Campeonato Absoluto do Norte
+3000obs:10'55''79''' Maia Julho 2025: III Noite Quente
+        11'07''59''' Maia Julho 2023: Campeonato Absoluto do Norte
         11'18''01''' Braga Julho 2022: Campeonato Absoluto do Norte 
 
 5000m: 	17:47.57 Maia: Campeonato Regional do Porto
